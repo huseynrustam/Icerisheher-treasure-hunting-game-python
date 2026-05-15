@@ -1,0 +1,30 @@
+Old City Treasure Hunt Result
+Date saved: 2026-05-16 01:33:47
+Final score: 0
+Best score: 0
+Moves: 0
+Hints left: 3
+Visited places: Fortress Walls
+Inventory: empty
+Result: Player exited the game.
+----------------------------------------
+Old City Treasure Hunt Result
+Date saved: 2026-05-16 01:34:14
+Final score: -2
+Best score: 0
+Moves: 0
+Hints left: 0
+Visited places: Fortress Walls
+Inventory: empty
+Result: You used all hints. Game over.
+----------------------------------------
+Old City Treasure Hunt Result
+Date saved: 2026-05-16 01:36:33
+Final score: 0
+Best score: 0
+Moves: 0
+Hints left: 3
+Visited places: Fortress Walls
+Inventory: empty
+Result: Player exited the game.
+----------------------------------------
